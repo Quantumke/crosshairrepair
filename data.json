@@ -1,0 +1,47 @@
+{
+    "type": "crosshair",
+    "mark": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -42.6747,
+                    0.702
+                ]
+            },
+            "properties": {
+                "text": "#Views @ Wethersfield, Connecticut https://t.co/Er2tNJkngm",
+                "created_at": "Fri Apr 29 11:46:19 +0000 2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.6747,
+                    31.702
+                ]
+            },
+            "properties": {
+                "text": "#Views @ Wethersfield, Connecticut https://t.co/Er2tNJkngm",
+                "created_at": "Fri Apr 29 11:46:19 +0000 2016"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -42.6747,
+                    31.702
+                ]
+            },
+            "properties": {
+                "text": "#Views @ Wethersfield, Connecticut https://t.co/Er2tNJkngm",
+                "created_at": "Fri Apr 29 11:46:19 +0000 2016"
+            }
+        }
+    ]
+}
